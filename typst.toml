@@ -1,9 +1,9 @@
 [package]
-name = "tugraz-typst-theme"
+name = "athena-typst-theme"
 version = "1.0.0"
-entrypoint = "./tugraz-polylux.typ"
-authors = ["hweissi"]
-description = "TU Graz Typst Theme"
+entrypoint = "./athena-polylux.typ"
+authors = ["h4ckd0tm3, hweissi"]
+description = "Athena Typst Theme"
 
 [template]
 path = "./"

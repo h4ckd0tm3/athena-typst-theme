@@ -1,11 +1,11 @@
-#import "./tugraz-polylux.typ": *
+#import "./athena-polylux.typ": *
 #import "@preview/pinit:0.1.4": *
-#show: tugraz-theme.with(
+#show: athena-theme.with(
   footer: [Footer],
   progress-bar: true
 )
 
-#set text(font: "Fira Sans", weight: "regular", size: 20pt)
+#set text(font: "Berkeley Mono", weight: "regular", size: 20pt)
 #show math.equation: set text(font: "Fira Math")
 #set strong(delta: 100)
 #set par(justify: true)
