@@ -105,11 +105,11 @@
       set text(fill: m-color-background, size: 1.2em)
       strong(title)
       h(1fr)
-      box(pad(bottom: .75em, text(size: .5em, "@h4ckd0tm3/project-athena", weight: "medium")))
+      box(pad(bottom: .75em, text(size: .5em, "@nodezeroat/project-athena", weight: "medium")))
       box(pad(left: .2em, bottom: .75em, square(fill: m-color-primary, size: .3em)))
     } else {
       h(1fr)
-      box(pad(bottom: .75em, text(size: .5em, "@h4ckd0tm3/project-athena", weight: "medium")))
+      box(pad(bottom: .75em, text(size: .5em, "@nodezeroat/project-athena", weight: "medium")))
       box(pad(left: .2em, bottom: .75em, square(fill: m-color-primary, size: .3em)))
     }
   }
